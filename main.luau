@@ -1,0 +1,3 @@
+-- main.luau
+print("Blox Fruits Hub Iniciado!")
+-- Código completo do hub viria aqui...
